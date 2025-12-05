@@ -2,8 +2,6 @@
 
 ### A passionate Full Stack developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SoumyaPurani&label=Profile views&color=0e75b6&style=flat" alt="SoumyaPurani" /> </p>
-
 - 🔭 I'm currently working on **Learning and developing a Spring boot web application**
 
 - 🌱 I'm currently learning **Spring boot, TypeScript and n8n**
