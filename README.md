@@ -1,5 +1,7 @@
 # Hi 👋, I'm Soumya Purani
 
+![](https://komarev.com/ghpvc/?username=SoumyaPurani&color=brightgreen)
+
 # 💫 About Me:
 🔭 I'm currently working on Learning and developing a Spring boot web application and an OPD management software as a freelancer<br><br>🌱 I'm currently learning Spring boot, TypeScript and n8n
 
